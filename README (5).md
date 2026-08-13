@@ -1,65 +1,97 @@
-<h1 align="center">Hi, I'm Rasshi Ashish Srivastav 👋</h1>
-<h3 align="center">Backend-focused Full-Stack Developer | B.Tech IT, MMMUT Gorakhpur</h3>
+<h1 align="center">Hi, I'm Rasshi Srivastav 👋</h1>
+<h3 align="center">Full Stack Developer | B.Tech IT @ MMMUT</h3>
 
 <p align="center">
-I build things end-to-end — from data structures and algorithms up through deployed, working applications.
-Currently sharpening my backend fundamentals and looking for opportunities to build on real systems.
+  <img src="https://komarev.com/ghpvc/?username=Ras0105&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rasshi-ashish-srivastav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:rasshi626@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 What I'm working on
+### 👨‍💻 About Me
 
-- 🔭 Building **[ADD: 1-line description of your most recent/active project]**
-- 🌱 Currently learning **[ADD: e.g. system design, Django REST Framework, SQL optimization — whatever's true]**
-- 💬 Ask me about **C++ / DSA, Python, and web fundamentals**
-- 📫 Reach me at **[ADD your email]**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Web:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend/Deploy:** [ADD your actual stack once confirmed — e.g. Flask, Django, Node/Express, Render, PostgreSQL, MongoDB]
-
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- 🎓 B.Tech in Information Technology @ Madan Mohan Malaviya University of Technology, Gorakhpur (2024–2028)
+- 💻 Core Team Lead, Web Development @ Drone & IoT Club, MMMUT — built and led the [official club website](https://droneiotclub.live)
+- 🌱 Executive Member (DSA/CP) @ Google Developer Groups (GDG) On Campus MMMUT
+- 🔭 Currently building backends with **FastAPI**, moving on from Django
+- 🌟 Open Source Contributor, GirlScript Summer of Code (GSSOC) 2026
+- 🔭 Open to **internship opportunities** as a Full Stack Developer
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/rasshi-ashish-srivastav) · [Email](mailto:rasshi626@gmail.com)
 
 ---
 
-### 📌 Featured Projects
+### 🛠 Tech Stack
 
-**[BlogProject](https://github.com/Ras0105/BlogProject)**
-[ADD 1–2 sentences: what does this blog app actually do — CRUD posts, user auth, comments? What's the backend framework and database?]
-🔗 Live: [ADD Render URL] · Tech: Python, [ADD framework], [ADD DB]
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**[SortVision](https://github.com/Ras0105/SortVision)**
-A CLI application implementing 11 sorting algorithms from scratch in C++ (bubble, merge, quick, heap, radix, and more) — built to deeply understand algorithmic tradeoffs, not just use library functions.
-Tech: C++, STL
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-**[ImagIO](https://github.com/Ras0105/ImagIO)**
-A dynamic image carousel supporting user-uploaded images with a custom HUD-style UI, built to master Swiper.js lifecycle and configuration.
-🔗 Live Demo: [imag-n56oji97n-rasshi-ashish-srivastav-s-projects.vercel.app](https://imag-n56oji97n-rasshi-ashish-srivastav-s-projects.vercel.app)
-Tech: HTML, CSS, JavaScript, Swiper.js
+**Backend & Databases**
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-**[LinkedNodes](https://github.com/Ras0105/LinkedNodes)**
-[ADD: what specifically does this cover — singly/doubly linked lists, custom operations, a specific problem set?]
-Tech: C++
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ras0105&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ras0105" alt="GitHub Streak" height="165"/>
+**Tools & Platforms**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
 
-### 🔗 Connect
+### ⭐ Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasshi-ashish-srivastav)
+- **[skyforge-nexus](https://github.com/Ras0105/skyforge-nexus)** — Official website for MMMUT's Drone & IoT Club, built and led as Core Team Lead. [Live](https://droneiotclub.live)
+- **[SortVision](https://github.com/Ras0105/SortVision)** — Menu-driven C++ app implementing 11 sorting algorithms with step-by-step execution, built with STL and OOP for a modular, reusable codebase.
+- **[ShopSphereDB](https://github.com/Ras0105/ShopSphereDB)** — MySQL-based e-commerce database system with an 11-table normalized schema covering orders, inventory, payments, and shipping.
+- **[BlogProject](https://github.com/Ras0105/BlogProject)** — Full-stack blogging platform built with Django (MVT architecture), featuring auth, session management, and post CRUD, deployed on Render.
 
+---
+
+### 📊 Coding Profiles & GitHub Stats
+
+<p align="center">
+  <a href="https://codeforces.com/profile/rasshi" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://www.codechef.com/users/rasshi0105" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ras0105&show_icons=true&theme=radical" alt="Rasshi's GitHub stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ras0105&layout=compact&theme=radical" alt="Top languages"/>
+</p>
+
+---
+
+<p align="center"><em>Always open to internships, collaborations, and learning something new — feel free to reach out!</em></p>
