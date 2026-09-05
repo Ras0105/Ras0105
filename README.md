@@ -77,7 +77,7 @@
 ### 📊 Coding Profiles & GitHub Stats
 
 <p align="center">
-  <a href="https://codeforces.com/profile/rasshi" target="_blank">
+  <a href="https://codeforces.com/profile/rasshi_IT" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>&nbsp;
   <a href="https://www.codechef.com/users/rasshi0105" target="_blank">
