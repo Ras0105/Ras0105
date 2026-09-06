@@ -187,9 +187,9 @@ Also on GitHub: <a href="https://github.com/Ras0105/FastAPI-ISSUE-TRACKER">FastA
 ## 🕹️ Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ras0105/Ras0105/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake.svg">
 </picture>
 
 <sub>This needs the one-time GitHub Action in <code>.github/workflows/main.yml</code> (provided alongside this file) — it auto-generates the graph above on an <code>output</code> branch.</sub>
