@@ -20,7 +20,7 @@
 
 🥇 Event Wins
 
-Software Development Intern
+Executive Member @ Google Developers Group On Campus, MMMUT
 
 Web Dev @ Drone & IoT Club, MMMUT
 
