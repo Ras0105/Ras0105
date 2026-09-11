@@ -14,9 +14,9 @@
 
 <div align="center">
 
-| 💼 Internship | 🧑‍💻 Team Lead | 🌱 Open Source | 🥇 Event Wins |
-|:---:|:---:|:---:|:---:|
-| Software Development Intern | Web Dev @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
+| 🧑‍💻 Team Lead | 🌱 Open Source | 🥇 Event Wins |
+|:---:|:---:|:---:|
+| Web Dev @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
 
 </div>
 
