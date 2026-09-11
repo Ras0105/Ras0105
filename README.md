@@ -8,76 +8,136 @@
 
 </div>
 
+---
+
 ## 🏆 At a Glance
 
 <div align="center">
 
 | 💼 Executive Member | 🧑‍💻 Team Lead | 🌱 Open Source | 🥇 Event Wins |
 |:---:|:---:|:---:|:---:|
-| Executive @ **GDG On Campus MMMUT** | Web Dev Lead @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
+| Executive @ **GDG On Campus MMMUT** | Web Dev @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
 
 </div>
 
-🚀 About Me
+---
+
+## 🚀 About Me
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
+```yaml
 name       : Rasshi Ashish Srivastav
 location   : Gorakhpur, India 🇮🇳
 university : MMMUT Gorakhpur — B.Tech Information Technology (CGPA: 8.09)
 role       : Full Stack Developer
 focus      : FastAPI · React · Databases · Competitive Programming
+```
 
-🎓 B.Tech IT @ MMMUT, Gorakhpur (2024 – 2028)
-
-💼 Software Developer Intern — built the Biodata Builder web app, deployed on Vercel + Railway
-
-🧑‍💻 Core Team Lead, Web Development @ Drone & IoT Club, MMMUT — led the team behind the official club site
-
-🌐 Executive Member (DSA/CP) @ GDG On Campus MMMUT — runs peer DSA/CP practice sessions
-
-🌱 Open Source Contributor @ GSSoC 2026
-
-🔭 Currently deepening FastAPI + React, moving on from Django as primary stack
-
-📫 LinkedIn · Email · GitHub
+- 🎓 B.Tech IT @ **MMMUT, Gorakhpur** (2024 – 2028)
+- 💼 Software Developer Intern — built the [Biodata Builder](https://biodata-builder-omega.vercel.app/) web app, deployed on Vercel + Railway
+- 🧑‍💻 **Core Team Lead, Web Development** @ Drone & IoT Club, MMMUT — led the team behind the [official club site](https://droneiotclub.live)
+- 🌐 Executive Member (DSA/CP) @ **GDG On Campus MMMUT** — runs peer DSA/CP practice sessions
+- 🌱 Open Source Contributor @ **GSSoC 2026**
+- 🔭 Currently deepening **FastAPI + React**, moving on from Django as primary stack
+- 📫 [LinkedIn](https://www.linkedin.com/in/rasshi-ashish-srivastav) · [Email](mailto:rasshi626@gmail.com) · [GitHub](https://github.com/Ras0105)
 
 <br clear="right"/>
 
+---
+
+## ⭐ Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📇 [Biodata Builder](https://github.com/Ras0105/biodata-builder) — [Live](https://biodata-builder-omega.vercel.app/)
+
+`Full Stack · Live Preview · Razorpay · Vercel`
+
+- Template-based biodata/resume builder with 24 designs and real-time live preview
+- Print-ready PDF export with a secure Razorpay-backed payment flow
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌙 [FocusRoom](https://github.com/Ras0105/FocusRoom) — [Live](https://focus-room-red.vercel.app/)
+
+`Frontend · Pomodoro · UX`
+
+- Cozy pomodoro/study-timer app with focus, short-break, and long-break modes
+- Ambient sound mixer with rain, café, fireplace, forest and lo-fi music
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💰 [Resume Builder Backend](https://github.com/Ras0105/Resume-Builder-Backend) — [Live](https://resume-builder-nu-sable.vercel.app/)
+
+`FastAPI · PostgreSQL · Razorpay · Vercel`
+
+- Full-stack resume builder with FastAPI backend + JavaScript frontend
+- REST APIs for resume data and dynamic PDF generation
+- Razorpay webhook-based payment unlocking
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔢 [SortVision](https://github.com/Ras0105/SortVision)
+
+`C++ · STL · OOP · DSA`
+
+- Menu-driven application implementing 11 sorting algorithms
+- Step-by-step execution with time and space complexity comparison
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
 Also on GitHub:
 
-FastAPI Issue Tracker
+[FastAPI Issue Tracker](https://github.com/Ras0105/FastAPI-ISSUE-TRACKER)
 ·
-LinkedNodes
+[LinkedNodes](https://github.com/Ras0105/LinkedNodes)
 ·
-See all repositories →
+[See all repositories →](https://github.com/Ras0105?tab=repositories)
 
 </div>
 
-🧰 Tech Stack
+---
 
-Languages
+## 🧰 Tech Stack
+
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" />
 </p>
 
-Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react&theme=dark" />
 </p>
 
-Backend & Databases
+### Backend & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=django,fastapi,mysql,mongodb&theme=dark" />
 </p>
 
-Tools & Deployment
+### Tools & Deployment
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,railway,render&theme=dark" />
@@ -88,37 +148,20 @@ Tools & Deployment
 
 <br/>
 
-Category
-
-Skills
-
-Languages
-
-C, C++, Python, JavaScript
-
-Frontend
-
-HTML, CSS, Tailwind CSS, Bootstrap, Swiper.js
-
-Backend
-
-Django, FastAPI
-
-Databases
-
-MySQL, MongoDB
-
-Tools & Platforms
-
-Git, GitHub, VS Code, Vite, Vercel, Railway, Render
-
-CS Fundamentals
-
-Data Structures & Algorithms, OOP, Problem Solving
+| Category | Skills |
+|---|---|
+| **Languages** | C, C++, Python, JavaScript |
+| **Frontend** | HTML, CSS, Tailwind CSS, Bootstrap, Swiper.js |
+| **Backend** | Django, FastAPI |
+| **Databases** | MySQL, MongoDB |
+| **Tools & Platforms** | Git, GitHub, VS Code, Vite, Vercel, Railway, Render |
+| **CS Fundamentals** | Data Structures & Algorithms, OOP, Problem Solving |
 
 </details>
 
-📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -150,69 +193,68 @@ Data Structures & Algorithms, OOP, Problem Solving
 
 </div>
 
-🧠 Competitive Programming
+---
+
+## 🧠 Competitive Programming
 
 <div align="center">
 
-Platform
-
-Handle
-
-🔵 Codeforces
-
-rasshi
-
-🟤 CodeChef
-
-rasshi0105
+| Platform | Handle |
+|:---:|:---:|
+| 🔵 Codeforces | [Rasshi_IT](https://codeforces.com/profile/Rasshi_IT) |
+| 🟤 CodeChef | [RASSHI0105](https://www.codechef.com/users/RASSHI0105) |
 
 <br/>
 
-<a href="https://codeforces.com/profile/rasshi">
-<img src="https://img.shields.io/badge/Codeforces-rasshi-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+<a href="https://codeforces.com/profile/Rasshi_IT">
+<img src="https://img.shields.io/badge/Codeforces-Rasshi__IT-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Rasshi_IT" />
 </a>
 
-<a href="https://www.codechef.com/users/rasshi0105">
-<img src="https://img.shields.io/badge/CodeChef-rasshi0105-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+<a href="https://www.codechef.com/users/RASSHI0105">
+<img src="https://img.shields.io/badge/CodeChef-RASSHI0105-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef RASSHI0105" />
 </a>
 
 </div>
 
-🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rasshi%20Srivastav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasshi-ashish-srivastav)
 
+[![Gmail](https://img.shields.io/badge/Email-rasshi626%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasshi626@gmail.com)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Ras0105-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ras0105)
 
+[![Codeforces](https://img.shields.io/badge/Codeforces-Rasshi__IT-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Rasshi_IT)
 
+[![CodeChef](https://img.shields.io/badge/CodeChef-RASSHI0105-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/RASSHI0105)
 
-
-
-
-
-
-
+[![Drone & IoT Club](https://img.shields.io/badge/Drone%20%26%20IoT%20Club-Core%20Team%20Lead-10B981?style=for-the-badge)](https://droneiotclub.live)
 
 </div>
 
-🕹️ Contribution Snake
+---
+
+## 🕹️ Contribution Snake
 
 <div align="center">
 
 <picture>
 
-<source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake-dark.svg">
 
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake.svg">
 
-<img
- alt="GitHub contribution snake"
- src="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake.svg">
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake.svg">
 
 </picture>
 
@@ -223,11 +265,13 @@ The contribution snake is generated automatically by the GitHub Action in
 <code>.github/workflows/main.yml</code>.
 </sub>
 
+---
+
 <div align="center">
 
-🚀 Currently open to Full Stack Developer internships
+### 🚀 Currently open to Full Stack Developer internships
 
-Let's build something great together.
+**Let's build something great together.**
 
 <br/>
 
