@@ -8,25 +8,13 @@
 
 </div>
 
-🏆 At a Glance
+## 🏆 At a Glance
 
 <div align="center">
 
-💼 Internship
-
-🧑‍💻 Team Lead
-
-🌱 Open Source
-
-🥇 Event Wins
-
-Executive Member @ Google Developers Group On Campus, MMMUT
-
-Web Dev @ Drone & IoT Club, MMMUT
-
-Contributor @ GSSoC 2026
-
-1st · 2nd · 4th across MMMUT contests
+| 💼 Executive Member | 🧑‍💻 Team Lead | 🌱 Open Source | 🥇 Event Wins |
+|:---:|:---:|:---:|:---:|
+| Executive @ **GDG On Campus MMMUT** | Web Dev @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
 
 </div>
 
@@ -55,68 +43,15 @@ focus      : FastAPI · React · Databases · Competitive Programming
 📫 LinkedIn · Email · GitHub
 
 <br clear="right"/>
+## 🏆 At a Glance
 
-⭐ Featured Projects
+<div align="center">
 
-<table>
-<tr>
+| 💼 Internship | 🧑‍💻 Team Lead | 🌱 Open Source | 🥇 Event Wins |
+|:---:|:---:|:---:|:---:|
+| Software Development Intern | Web Dev @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
 
-<td width="50%" valign="top">
-
-📇 Biodata Builder — Live
-
-Full Stack · Live Preview · Razorpay · Vercel
-
-Template-based biodata/resume builder with 24 designs and real-time live preview
-
-Print-ready PDF export with a secure Razorpay-backed payment flow
-
-</td>
-
-<td width="50%" valign="top">
-
-🌙 FocusRoom — Live
-
-Frontend · Pomodoro · UX
-
-Cozy pomodoro/study-timer app with focus, short-break, and long-break modes
-
-Ambient sound mixer with rain, café, fireplace, forest and lo-fi music
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-💰 Resume Builder Backend — Live
-
-FastAPI · PostgreSQL · Razorpay · Vercel
-
-Full-stack resume builder with FastAPI backend + JavaScript frontend
-
-REST APIs for resume data and dynamic PDF generation
-
-Razorpay webhook-based payment unlocking
-
-</td>
-
-<td width="50%" valign="top">
-
-🔢 SortVision
-
-C++ · STL · OOP · DSA
-
-Menu-driven application implementing 11 sorting algorithms
-
-Step-by-step execution with time and space complexity comparison
-
-</td>
-
-</tr>
-</table>
+</div>
 
 <div align="center">
 
