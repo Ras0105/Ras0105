@@ -16,7 +16,7 @@
 
 | 🧑‍💻 Team Lead | 🌱 Open Source | 🥇 Event Wins |
 |:---:|:---:|:---:|
-| Web Dev @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
+| Web Dev Lead@ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
 
 </div>
 
