@@ -14,7 +14,7 @@
 
 | 💼 Executive Member | 🧑‍💻 Team Lead | 🌱 Open Source | 🥇 Event Wins |
 |:---:|:---:|:---:|:---:|
-| Executive @ **GDG On Campus MMMUT** | Web Dev @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
+| Executive @ **GDG On Campus MMMUT** | Web Dev Lead @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
 
 </div>
 
@@ -43,15 +43,7 @@ focus      : FastAPI · React · Databases · Competitive Programming
 📫 LinkedIn · Email · GitHub
 
 <br clear="right"/>
-## 🏆 At a Glance
 
-<div align="center">
-
-| 💼 Internship | 🧑‍💻 Team Lead | 🌱 Open Source | 🥇 Event Wins |
-|:---:|:---:|:---:|:---:|
-| Software Development Intern | Web Dev @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
-
-</div>
 
 <div align="center">
 
