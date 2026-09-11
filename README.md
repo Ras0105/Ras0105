@@ -246,15 +246,15 @@ Also on GitHub:
 
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake-dark.svg?v=2">
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake.svg">
+    srcset="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake.svg?v=2">
 
   <img
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake.svg">
+    src="https://raw.githubusercontent.com/Ras0105/Ras0105/output/github-contribution-grid-snake.svg?v=2">
 
 </picture>
 
