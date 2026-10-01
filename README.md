@@ -37,9 +37,9 @@ focus      : FastAPI · React · Databases · Competitive Programming
 - 🎓 B.Tech IT @ **MMMUT, Gorakhpur** (2024 – 2028)
 - 💼 Software Developer Intern — built the [Biodata Builder](https://biodata-builder-omega.vercel.app/) web app, deployed on Vercel + Railway
 - 🧑‍💻 **Core Team Lead, Web Development** @ Drone & IoT Club, MMMUT — led the team behind the [official club site](https://droneiotclub.live)
-- 🌐 Executive Member (DSA/CP) @ **GDG On Campus MMMUT** — runs peer DSA/CP practice sessions
+- 🌐 Executive Member (DSA/CP) @ **GDG On Campus MMMUT**
 - 🌱 Open Source Contributor @ **GSSoC 2026**
-- 🔭 Currently deepening **FastAPI + React**, moving on from Django as primary stack
+- 🔭 Currently deepening **FastAPI + React**
 - 📫 [LinkedIn](https://www.linkedin.com/in/rasshi-ashish-srivastav) · [Email](mailto:rasshi626@gmail.com) · [GitHub](https://github.com/Ras0105)
 
 <br clear="right"/>
