@@ -14,9 +14,9 @@
 
 <div align="center">
 
-| 💼 Executive Member | 🧑‍💻 Team Lead | 🌱 Open Source | 🥇 Event Wins |
+| 💼 Mentor | 🧑‍💻 Team Lead | 🌱 Open Source | 🥇 Event Wins |
 |:---:|:---:|:---:|:---:|
-| Executive @ **GDG On Campus MMMUT** | Web Dev @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
+| DSA/CP Mentor @ **GDG On Campus MMMUT** | Web Dev @ **Drone & IoT Club, MMMUT** | Contributor @ **GSSoC 2026** | 1st · 2nd · 4th across MMMUT contests |
 
 </div>
 
@@ -37,7 +37,7 @@ focus      : FastAPI · React · Databases · Competitive Programming
 - 🎓 B.Tech IT @ **MMMUT, Gorakhpur** (2024 – 2028)
 - 💼 Software Developer Intern — built the [Biodata Builder](https://biodata-builder-omega.vercel.app/) web app, deployed on Vercel + Railway
 - 🧑‍💻 **Core Team Lead, Web Development** @ Drone & IoT Club, MMMUT — led the team behind the [official club site](https://droneiotclub.live)
-- 🌐 Executive Member (DSA/CP) @ **GDG On Campus MMMUT**
+- 🌐 DSA/CP MEntor @ **GDG On Campus MMMUT**
 - 🌱 Open Source Contributor @ **GSSoC 2026**
 - 🔭 Currently deepening **FastAPI + React**
 - 📫 [LinkedIn](https://www.linkedin.com/in/rasshi-ashish-srivastav) · [Email](mailto:rasshi626@gmail.com) · [GitHub](https://github.com/Ras0105)
